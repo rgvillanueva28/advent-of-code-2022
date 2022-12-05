@@ -2,7 +2,7 @@ import os
 import math
 import string
 
-input_file = open("Day 3 - Rucksack Reorganization.txt", "r")
+input_file = open("input.txt", "r")
 
 priority = {}
 sum_priority = 0

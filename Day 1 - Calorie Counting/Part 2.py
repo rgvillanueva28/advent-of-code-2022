@@ -1,6 +1,6 @@
 import os
 
-input_file = open("Day 1 Calorie Counting input.txt", "r")
+input_file = open("input.txt", "r")
 
 values = []
 

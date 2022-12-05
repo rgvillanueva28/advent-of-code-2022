@@ -21,7 +21,7 @@ game_mech = {
     },
 }
 
-input_file = open("Day 2 - Rock Paper Scissors.txt", "r")
+input_file = open("input.txt", "r")
 
 my_score = 0
 
